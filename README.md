@@ -2,10 +2,10 @@
 
 📂 Каталог: `raion/`  
 Файлы решений:
-- 🅰 [`raion/a.py`](raion/a.py)
-- 🅱 [`raion/b.py`](raion/b.py)
-- 🅲 [`raion/c.py`](raion/c.py)
-- 🅳 [`raion/d.py`](raion/d.py)
+- 🅰 [`raion/a.py`](raion/A.py)
+- 🅱 [`raion/b.py`](raion/B.py)
+- 🅲 [`raion/c.py`](raion/C.py)
+- 🅳 [`raion/d.py`](raion/D.py)
 
 ---
 
